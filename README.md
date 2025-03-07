@@ -71,5 +71,5 @@ For any questions or collaborations, feel free to reach out!
 
 ---
 **Author:** Kushal  
-**GitHub:** [Your GitHub Profile](https://github.com/Kushal-Narendracumar7)  
-**LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/kushal-bamania-08633a24a/)
+**GitHub:** (https://github.com/Kushal-Narendracumar7)  
+**LinkedIn:** (https://linkedin.com/in/kushal-bamania-08633a24a/)
